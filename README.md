@@ -42,7 +42,7 @@
 
 # See how it works v1.0.0
 ----------------------
-- 🔞 V1.0..0  https://youtu.be/JPcw4odkRwU
+- 🔞 V1.0..0  https://www.youtube.com/watch?v=0IDuxdiGOm0
 
 # How to ger:
 ----------------------
