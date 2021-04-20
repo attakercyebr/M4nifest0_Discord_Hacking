@@ -1,6 +1,5 @@
 # ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png) 
 
-# M4nifest0_Adder_Unlimited-Update-V1.1.2
 
 ##### Program Features
 ----------------------
@@ -38,9 +37,9 @@
 # Disclaimer:
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
-- 
+
 - 📌 Be careful of your security
-- 
+
 # See how it works v1.0.0
 ----------------------
 - 🔞 V1.0..0  https://youtu.be/JPcw4odkRwU
